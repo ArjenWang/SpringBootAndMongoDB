@@ -19,3 +19,5 @@
 * repository支持是否开启，默认为开启<br>
 * spring.data.mongodb.repositories.enabled=true<br>
 * spring.data.mongodb.field-naming-strategy=org.springframework.boot.autoconfigure.data.mongo<br>
+
+![image](https://github.com/ArjenWang/SpringBootAndMongoDB/blob/master/src/main/resources/templates/img/yes.jpg?raw=true)
